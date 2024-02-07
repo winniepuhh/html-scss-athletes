@@ -18,3 +18,5 @@ When done
 - make sure to `commit`, `push` and `deploy`
 - check that your Demo Page works as expected
 - Send a link to your deployed page to the coach 
+
+- [DEMO LINK](https://winniepuhh.github.io/html-scss-athletes/)
